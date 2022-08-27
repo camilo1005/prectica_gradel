@@ -1,0 +1,5 @@
+package comjpa.demo.jpa.rest;
+
+public class RoomController {
+
+}

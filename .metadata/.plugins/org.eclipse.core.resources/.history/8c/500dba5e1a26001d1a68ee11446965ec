@@ -1,0 +1,7 @@
+package comjpa.demo.jpa.repository;
+
+import org.springframework.data.repository.CrudRepository;
+
+public interface RoomRepository extends CrudRepository<Long, id>{
+
+}

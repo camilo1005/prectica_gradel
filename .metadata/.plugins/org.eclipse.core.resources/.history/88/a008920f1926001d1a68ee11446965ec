@@ -1,0 +1,3 @@
+insert into room values("hola");
+insert into room values("hola2");
+insert into room values("hola3");

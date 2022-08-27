@@ -1,0 +1,5 @@
+package comjpa.demo.jpa.repository;
+
+public interface RoomRepository {
+
+}
